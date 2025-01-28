@@ -31,4 +31,7 @@ Pour lister toutes les branches qu'il ya sur notre pc
 ## git checkout feature/"fonctionalité"
 Pour basculer sur la branche sur laquelle on veut travailler
 
+## git checkout -b feature/"mafonctionnalité"
+Permet de se déplacer sur une brache, et si elle n'existe pas, la créer
+
 
