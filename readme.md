@@ -19,3 +19,5 @@ Permet de pousser les modifications en ligne
 Permet de vérifier le status du repertoire
 Permet de lister les modifications à traiter
 
+## git checkout -b feature/"mafonctionnalité"
+Permet de se déplacer sur une brache, et si elle n'existe pas, la créer
