@@ -34,4 +34,9 @@ pour voir l'historique des modifications éffectuées dans un repertoire
 ## git checkout -b feature/"mafonctionnalité"
 - Permet de se déplacer sur une brache, et si elle n'existe pas, la créer
 
+## git rebase 
+- Permet de récupérer les modifications dans la branche mère
+- Les modifications de la branche mère sont placées en dessous de celle de la branche courante
+- Les modifications de la branche courante sont placées au-dessus de celles de la branche mère
+
 
