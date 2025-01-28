@@ -35,3 +35,16 @@ pour voir l'historique des modifications éffectuées dans un repertoire
 - Permet de se déplacer sur une brache, et si elle n'existe pas, la créer
 
 
+## git log
+pour voir l'historique des modifications éffectuées dans un repertoire
+
+## git branch feature/"fonctionalité"
+Pour créer une branche et son nom commence par le mot clé "feature/'le nom de la fonctionnalité qu'on developpe ou sur laquelle on va travailler'"
+
+## git branch
+Pour lister toutes les branches qu'il ya sur notre pc
+
+## git checkout feature/"fonctionalité"
+Pour basculer sur la branche sur laquelle on veut travailler
+
+
